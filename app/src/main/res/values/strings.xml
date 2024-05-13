@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="welcome_app">Hava Durumuna Hoşgeldiniz</string>
+    <string name="textfield_place_holder">Şehir</string>
+    <string name="search_cities">Aradığınız Şehirler: </string>
+    <string name="daily_forecast">Günlük Hava Tahminleri</string>
+    <string name="hourly_forecast">Saatlik Hava Tahminleri</string>
+</resources>
